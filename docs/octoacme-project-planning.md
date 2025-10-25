@@ -15,6 +15,8 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 4. Define Definition of Done (DoD)
 5. Identify dependencies and integration points
 6. Create release plan and milestone map
+7. Review RACI matrix with team to clarify responsibilities
+8. Establish collaboration workflows (see [octoacme-collaboration-workflows.md](octoacme-collaboration-workflows.md))
 
 ## Backlog Item Template
 - Title:
@@ -36,8 +38,12 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Mark cross-team dependencies in the project board and escalate during weekly syncs
 
 ## Planning Checklist
-- [ ] Project kickoff held
+- [ ] Project kickoff held with all key roles present
 - [ ] Backlog prioritized and estimated
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+- [ ] RACI matrix finalized and shared
+- [ ] Collaboration workflows established
+- [ ] Technical architecture reviewed by Technical Lead
+- [ ] DevOps/deployment strategy defined
