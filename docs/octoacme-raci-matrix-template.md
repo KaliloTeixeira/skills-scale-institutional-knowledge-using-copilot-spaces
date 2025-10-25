@@ -66,7 +66,7 @@ The RACI matrix clarifies roles and responsibilities for key project activities.
 
 | Activity | PM | PdM | Dev | Tech Lead | QA | DevOps | BA | Stakeholder |
 |----------|----|----|-----|-----------|-------|--------|----|----|
-| Security review | C | I | C | C | C | C | I | I |
+| Security review | C | I | C | A/R | C | C | I | I |
 | Performance benchmarking | C | C | R | C | A/R | C | I | I |
 
 ---

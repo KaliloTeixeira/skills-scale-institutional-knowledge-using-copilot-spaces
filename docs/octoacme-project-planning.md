@@ -42,7 +42,7 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Backlog prioritized and estimated
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
-- [ ] Initial test plan / QA approach drafted
+- [ ] Initial test approach / QA strategy drafted
 - [ ] RACI matrix finalized and shared
 - [ ] Collaboration workflows established
 - [ ] Technical architecture reviewed by Technical Lead
